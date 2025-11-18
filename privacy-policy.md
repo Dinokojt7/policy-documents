@@ -88,6 +88,5 @@ Izinto is based in South Africa and processes data primarily within South Africa
 ## Contact Information
 
 **Email:** info@izinto.africa  
-**Phone/WhatsApp:** +27 81 725 8447  
 **Website:** www.izinto.africa  
 **Support Hours:** Monday - Sunday, 8:00 - 22:00
