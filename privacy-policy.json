@@ -1,0 +1,42 @@
+{
+  "privacy-policy": [
+    {
+      "title": "Information We Collect",
+      "content": "We collect information you provide directly to us when you register for an account, use our services, or communicate with us. This includes:\n\n- Personal identification information (name, email, phone number)\n- Delivery addresses and location data\n- Payment information and transaction history\n- Service preferences and usage patterns\n- Communications, feedback, and support requests\n- Device information and IP addresses"
+    },
+    {
+      "title": "How We Use Your Information",
+      "content": "We use the information we collect to:\n\n- Provide, maintain, and improve our services\n- Process transactions and send order confirmations\n- Personalize your experience and service recommendations\n- Communicate with you about services, offers, and updates\n- Monitor and analyze trends, usage, and activities\n- Detect, prevent, and address technical issues and fraud\n- Comply with legal obligations and enforce our terms"
+    },
+    {
+      "title": "Information Sharing and Disclosure",
+      "content": "We do not sell your personal information to third parties. We may share your information in the following circumstances:\n\n- With service providers who perform services on our behalf (payment processors, delivery partners)\n- To comply with legal obligations or respond to lawful requests\n- To protect and defend our rights, property, and safety\n- In connection with a business transfer, merger, or acquisition\n- With your consent or at your direction\n\nAll third-party service providers are bound by confidentiality agreements."
+    },
+    {
+      "title": "Data Security",
+      "content": "We implement appropriate technical and organizational security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. These measures include:\n\n- Encryption of sensitive data in transit and at rest\n- Regular security assessments and vulnerability testing\n- Access controls and authentication mechanisms\n- Secure data storage and backup procedures\n- Employee training on data protection practices\n\nWhile we strive to protect your information, no method of transmission over the Internet is 100% secure."
+    },
+    {
+      "title": "Your Rights and Choices",
+      "content": "You have the following rights regarding your personal information:\n\n- Access and receive a copy of your personal information\n- Correct or update inaccurate information\n- Delete your information (subject to legal requirements)\n- Object to processing of your information\n- Data portability in a machine-readable format\n- Withdraw consent where processing is based on consent\n- Opt-out of marketing communications\n\nTo exercise these rights, contact us at info@izinto.africa."
+    },
+    {
+      "title": "Data Retention",
+      "content": "We retain your personal information only for as long as necessary to fulfill the purposes for which it was collected, including to provide our services, comply with legal obligations, resolve disputes, and enforce our agreements. Typical retention periods include:\n\n- Account information: While account is active plus 3 years\n- Transaction data: 7 years for tax and legal compliance\n- Service records: 3 years after service completion\n- Marketing data: Until consent is withdrawn\n\nWe regularly review our retention practices to ensure compliance."
+    },
+    {
+      "title": "International Data Transfers",
+      "content": "Izinto is based in South Africa and processes data primarily within South Africa. However, we may transfer and process your information in other countries where our service providers operate. When we transfer information across borders, we implement appropriate safeguards to ensure your data receives adequate protection, including:\n\n- Standard contractual clauses approved by regulatory authorities\n- Data processing agreements with third-party providers\n- Security assessments of international partners\n- Compliance with applicable data protection laws"
+    }
+  ],
+  "contactInfo": {
+    "email": "info@izinto.africa",
+    "phone": "+27 81 725 8447",
+    "supportHours": "Mon-Sun: 8:00 - 22:00",
+    "website": "www.izinto.africa"
+  },
+  "metadata": {
+    "lastUpdated": "December 2024",
+    "version": "1.0.0"
+  }
+}
