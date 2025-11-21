@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Deletion Request - Izinto</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; }
+        .container { background: #f9f9f9; padding: 20px; border-radius: 8px; }
+        input, textarea { width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; }
+        button { background: #e74c3c; color: white; padding: 12px 24px; border: none; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Data Deletion Request</h1>
+        <p>To delete your Izinto account and all associated data, please fill out this form:</p>
+        
+        <form id="deletionForm">
+            <input type="text" id="phone" placeholder="Your registered phone number" required>
+            <input type="email" id="email" placeholder="Your email (optional)">
+            <textarea id="message" placeholder="Additional information (optional)" rows="4"></textarea>
+            <button type="submit">Submit Deletion Request</button>
+        </form>
+        
+        <p><strong>What happens next:</strong></p>
+        <ul>
+            <li>We will verify your identity</li>
+            <li>Delete your account and all personal data</li>
+            <li>Remove your order history and saved addresses</li>
+            <li>Process within 7-14 business days</li>
+        </ul>
+        
+        <p>Alternatively, you can email us at: <strong>jacobdinoko@gmail.com</strong></p>
+    </div>
+
+    <script>
+        document.getElementById('deletionForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const phone = document.getElementById('phone').value;
+            // Here you can send the data to your backend or just show confirmation
+            alert('Request received! We will process your data deletion request within 14 days.');
+            // Optional: Send to your backend API
+            // fetch('https://your-api.com/data-deletion-requests', { method: 'POST', body: JSON.stringify({phone}) });
+        });
+    </script>
+</body>
+</html>
