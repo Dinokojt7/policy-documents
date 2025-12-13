@@ -21,6 +21,55 @@ Craft a perfect README file with enough details
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Backend & Auth**: [Firebase](https://firebase.google.com/) (Auth, Firestore)
 
+## 🚀 Getting Started
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 18+ (LTS version recommended)
+- npm 10+ (comes with Node.js)
+- Git (for cloning repositories)
+- A code editor (VS Code recommended)
+
+### Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/username/project.git
+cd project
+```
+
+2. **Install dependencies**
+
+```bash
+npm install
+```
+
+3. **Setup environment variables**
+
+```bash
+cp .env.example .env.local
+```
+
+4. **Start development server**
+
+```bash
+npm run dev
+```
+
+### Available Scripts
+
+```bash
+npm run dev # Start the Next.js development server
+npm run build # Build the application for production
+npm start # Start the production server (after build)
+npm run lint # Run ESLint for code quality checks
+```
+
+
+
 ---
 
 *README generated with [readmepolished](http://localhost:3000)*
